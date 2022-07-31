@@ -948,3 +948,14 @@ body { background: var(--white); }
 }
 
 /* Additional CSS */
+header.header1{
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+
+header.header1 .logo a img{
+  position: relative;
+  height: 100px;
+  z-index: -100 !important;
+}
