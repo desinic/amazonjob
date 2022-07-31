@@ -219,8 +219,7 @@ body { background: var(--white); }
   justify-content: space-between;
   align-items: center;
 }
-
-.logo img { width: 160px; }
+.brat img { width: 160px; }
 
 .nav-toggle-btn {
   color: hsla(0, 0%, 0%, 0.8);
@@ -420,7 +419,7 @@ body { background: var(--white); }
 
 .footer-top { padding-block: var(--section-padding); }
 
-.footer .logo { margin-bottom: 20px; }
+.footer .brat { margin-bottom: 20px; }
 
 .location-text {
   display: flex;
