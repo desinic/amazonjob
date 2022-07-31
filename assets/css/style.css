@@ -950,7 +950,7 @@ body { background: var(--white); }
 /* Additional CSS */
 header.header1{
   position: absolute;
-  top: 0;
+  top: 500px;
   right: 0;
 }
 
